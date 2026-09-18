@@ -54,8 +54,8 @@
 
 Картинки
 --------
-![Альт текст](https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Jinx_Arcane_4_Render.png/revision/latest/scale-to-width-down/536?cb=20220216235833)
-![логотип](https://avatars.mds.yandex.net/i?id=60db04bf834af18d8c721037fe12794d307b07f8-10369171-images-thumbs&n=13)
+![Альт текст](Jinx_Arcane_4_Render.jpg)
+![логотип](123.jpg)
 
 [![клик по картинке](https://avatars.mds.yandex.net/i?id=cfba3a3ef0529bf1d63d2906be6ffb41_sr-12938831-images-thumbs&n=13)](https://www.leagueoflegends.com/ru-ru/champions/jinx/)
 
